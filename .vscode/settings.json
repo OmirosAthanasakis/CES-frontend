@@ -1,7 +1,4 @@
 {
-    "editor.formatOnPaste": false,
-    "editor.formatOnSave": false,
-    "editor.formatOnType": false,
-    "prettier-eslint.eslintIntegration": true,
-    "javascript.preferences.importModuleSpecifier": "non-relative"
+    "appService.defaultWebAppToDeploy": "/subscriptions/808a4b66-3325-4d4a-aaa4-550e98795d20/resourceGroups/rg-tl-dk2/providers/Microsoft.Web/sites/wa-tl-dk2",
+    "appService.deploySubpath": "."
 }
